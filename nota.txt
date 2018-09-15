@@ -1,0 +1,6 @@
+Qué es necesario para correrlo:
+  -Python3
+  -openpyxl:
+    Cómo instalar:
+      1. python -m ensurepip --default-pip
+      2. pip install openpyxl
